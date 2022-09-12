@@ -1,10 +1,8 @@
 # So wehrst du dich gegen Inkassos und Inkasso Betrüger
 <strong><h1>Inkasso Verteidigung für Menschen - keine Chance für Inkassos</h1></strong><br><br>
 <br>
-Die komplette Inkasso- und Anwaltsbranche arbeitet nicht konform zu geltendem Recht (HLKO, SHAEF Gesetze) und steht ohne Rechtsgrundlage dar (Bereinigungsgesetze)!
-<br><br>
 Neuste Version: https://github.com/inkassos/inkasso/blob/main/So%20verteidigst%20du%20dich%20gegen%20Inkassos.pdf
-<br><br>
+<br>
 
 <b>Inhaltsverzeichnis der Inkasso Verteidigung</b><br><br>
 Einleitung<br>
