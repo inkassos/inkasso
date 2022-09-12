@@ -30,12 +30,12 @@ Entkräftung von Drohgebärden der Inkasso-Dienstleister<br>
 Konsequenzen für rechtswidriges Verhalten von Inkassos<br>
 Weitere Links<br>
 <br><br>
-More of my projects can be found here:<br>
+Weitere Links:<br>
 <br><br>
 https://www.artikelschreiber.com/ - Artikel: Text schreiben für Content Marketing | ArtikelSchreiber.com<br>
 https://www.artikelschreiber.com/en/ - Article Generator: Write text for Marketing | ArtikelSchreiber.com<br>
 https://www.unaique.net/ - Marketing: Copywriter für Seo Text & Content mit KI | UNAIQUE.NET <br>
-https://www.unaique.com/ - UNAIQUE LCC<br>
+https://www.unaique.com/ - UNAIQUE.COM<br>
 https://rechthaben.net/ - Zu Recht & Recht Haben | RechtHaben.net<br>
 https://www.paraphrasingtool1.com/ - Paraphrasing Tool: Paraphrase & Rewriter | AI by ParaphrasingTool1.com<br>
 https://www.artikelschreiben.com/ - Artikel schreiben: Für Text, Blog, Vlog schreiben | ArtikelSchreiben.com<br>
