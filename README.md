@@ -28,10 +28,9 @@ Ohne originale Urkunde kein Fall<br>
 Wichtige Urteile<br>
 Entkräftung von Drohgebärden der Inkasso-Dienstleister<br>
 Konsequenzen für rechtswidriges Verhalten von Inkassos<br>
-Weitere Links<br>
-<br><br>
+<br>
 Weitere Links:<br>
-<br><br>
+<br>
 https://www.artikelschreiber.com/ - Artikel: Text schreiben für Content Marketing | ArtikelSchreiber.com<br>
 https://www.artikelschreiber.com/en/ - Article Generator: Write text for Marketing | ArtikelSchreiber.com<br>
 https://www.unaique.net/ - Marketing: Copywriter für Seo Text & Content mit KI | UNAIQUE.NET <br>
@@ -42,7 +41,7 @@ https://www.artikelschreiben.com/ - Artikel schreiben: Für Text, Blog, Vlog sch
 https://www.artikelschreiber.com/en/ - SEO Tool: Write an article for digital marketing | ArtikelSchreiber.com<br>
 https://www.unaique.net/en/ - CopyWriting: Generator for Marketing Content by AI | UNAIQUE.NET<br>
 https://sourceforge.net/projects/inkasso/ - Inkasso Dokumentation<br>
-<br><br>
+<br>
 https://www.artikelschreiber.com/es/<br />
 https://www.artikelschreiber.com/fr/<br />
 https://www.artikelschreiber.com/it/<br />
@@ -61,7 +60,7 @@ https://www.artikelschreiber.com/marketing/generator/<br />
 https://www.artikelschreiber.com/marketing/paraphrase/<br />
 https://www.artikelschreiber.com/marketing/review/<br />
 https://www.artikelschreiber.com/marketing/<br />
-<br><br>
+<br>
 https://rechthaben.net/beratung/medien-kommunizieren-und-informieren/<br>
 https://rechthaben.net/beratung/mahnung-und-zahlungserinnerungen/<br>
 https://rechthaben.net/beratung/widerspruch-gegen-gaspreise/<br>
